@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# [Анализ рынка заведений общественного питания Москвы](https://github.com/AnnaBulkina/Data-Analytics-Projects/blob/main/food-service/food_service.ipynb "Анализ рынка заведений общественного питания Москвы")
 
 **Название проекта:** Анализ рынка заведений общественного питания Москвы
 
