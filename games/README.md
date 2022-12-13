@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# [Исследование глобальных продаж компьютерных игр](https://github.com/AnnaBulkina/Data-Analytics-Projects/blob/main/games/game-study.ipynb "Исследование глобальных продаж компьютерных игр")
 
 **Наизвание проекта:** Исследование глобальных продаж компьютерных игр
 
