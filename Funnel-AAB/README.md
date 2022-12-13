@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# [Изучение воронки продаж и результатов A/A/B-эксперимента](https://github.com/AnnaBulkina/Data-Analytics-Projects/blob/main/Funnel-AAB/funnel-and-a-a-b-test.ipynb "Изучение воронки продаж и результатов A/A/B-эксперимент")
 
 **Название проекта:** Изучение воронки продаж и результатов A/A/B-эксперимента
 
