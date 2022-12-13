@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# [Приоритизация гипотез и анализ результатов A/B-теста](https://github.com/AnnaBulkina/Data-Analytics-Projects/blob/main/hypotheses/hypotheses-and-a-b-test.ipynb "Приоритизация гипотез и анализ результатов A/B-теста")
 
 **Название проекта:** Приоритизация гипотез и анализ результатов A/B-теста
 
