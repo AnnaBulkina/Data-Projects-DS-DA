@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# [Маркетинговый анализ приложения Procrastinate Pro+](https://github.com/AnnaBulkina/Data-Analytics-Projects/blob/main/marketing/marketing-study.ipynb "Маркетинговый анализ приложения Procrastinate Pro+")
 
 **Название проекта:** Маркетинговый анализ приложения Procrastinate Pro+
 
